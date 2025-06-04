@@ -1,0 +1,4 @@
+train: ../data/sample_images
+
+nc: 1
+names: ['License_Plate']
