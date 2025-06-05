@@ -19,7 +19,7 @@ if __name__ == "__main__":
 
         # YOLO detection
         results = model(frame, conf=0.55)
-
+ 
         for result in results:
             boxes = result.boxes
             for box in boxes:
