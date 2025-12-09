@@ -8,15 +8,15 @@
 
 ## 🌟 Project Overview
 
-**Automatic Number Plate Detection (ANPR)** is a Python-based system that uses **YOLO object detection** and **OCR** to detect and recognize vehicle number plates in real-time.  
+**Automatic Number Plate Detection (ANPR)** is a Python-based system using **YOLO object detection** and **OCR** to detect and recognize vehicle number plates in real-time.  
 
-This system can be deployed in:  
-- 🏠 **Residential complexes** – Log and allow registered vehicles automatically  
-- 🏢 **Malls & Offices** – Track visitor vehicles easily  
-- 🚔 **Security / Hit-and-run detection** – Capture number plates of vehicles in restricted areas  
-- 🅿️ **Parking management** – Automate vehicle entry and exit logs  
+It can be deployed in various real-world scenarios:  
+- 🏠 **Homes / Gated Communities** – Log vehicles entering and exiting automatically  
+- 🏢 **Malls & Offices** – Keep track of visitors’ vehicles  
+- 🚔 **Security / Hit-and-Run Detection** – Capture number plates of unauthorized or suspicious vehicles  
+- 🅿️ **Parking Management** – Automate parking entries and exits  
 
-It works within a **limited distance** to ensure high accuracy and efficiency.
+The system works within a **limited distance**, ensuring high accuracy without unnecessary processing.
 
 ---
 
@@ -40,12 +40,15 @@ It works within a **limited distance** to ensure high accuracy and efficiency.
 
 <div align="left">
   <ul>
-    <li>🎯 Real-time number plate detection using YOLO</li>
-    <li>📝 OCR-based recognition of vehicle numbers</li>
-    <li>💾 Store detected numbers in a database or log</li>
-    <li>🚪 Can be used in houses, flats, offices, malls</li>
-    <li>📏 Works efficiently within a limited distance</li>
-    <li>🔔 Optional alert system for unauthorized vehicles</li>
+    <li>🎯 **Real-time number plate detection** using YOLO</li>
+    <li>📝 **OCR-based recognition** of vehicle numbers</li>
+    <li>💾 **Stores detected numbers** in a database or log</li>
+    <li>🏠 **House / gated community entry logging** – Automatically track vehicles entering homes or flats</li>
+    <li>🏢 **Malls & offices tracking** – Logs visitor vehicles efficiently</li>
+    <li>🚔 **Hit-and-run detection** – Capture unauthorized vehicle numbers in restricted zones</li>
+    <li>🅿️ **Parking management** – Automatically track parking entries and exits</li>
+    <li>📏 **Limited distance recognition** – Ensures high accuracy for nearby vehicles</li>
+    <li>🔔 **Optional alert system** for unauthorized vehicles</li>
   </ul>
 </div>
 
