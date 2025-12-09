@@ -10,13 +10,21 @@
 
 **Automatic Number Plate Detection (ANPR)** is a Python-based system using **YOLO object detection** and **OCR** to detect and recognize vehicle number plates in real-time.  
 
-It can be deployed in various real-world scenarios:  
-- 🏠 **Homes / Gated Communities** – Log vehicles entering and exiting automatically  
-- 🏢 **Malls & Offices** – Keep track of visitors’ vehicles  
-- 🚔 **Security / Hit-and-Run Detection** – Capture number plates of unauthorized or suspicious vehicles  
-- 🅿️ **Parking Management** – Automate parking entries and exits  
+It is designed for **security, automation, and monitoring**, making it ideal for gated communities, malls, offices, parking lots, and traffic monitoring systems.
 
-The system works within a **limited distance**, ensuring high accuracy without unnecessary processing.
+---
+
+## 👥 Target Users / Who Can Use This Project
+
+This system is useful for:  
+
+- 🏠 **Homeowners / Gated Communities** – Automatically log vehicles entering or leaving, enhancing residential security.  
+- 🏢 **Mall / Office Administrators** – Track visitor vehicles and maintain entry logs efficiently.  
+- 🅿️ **Parking Lot Operators** – Automate vehicle entry and exit, monitor parking occupancy.  
+- 🚔 **Traffic Authorities / Security Personnel** – Detect unauthorized vehicles, monitor hit-and-run cases, and improve law enforcement.  
+- 🏘 **Apartment / Flat Management** – Keep a record of all vehicles entering the premises.  
+
+> In short, any organization or individual who needs **automated vehicle tracking and number plate logging** can benefit from this system.
 
 ---
 
