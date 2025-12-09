@@ -66,5 +66,5 @@ This system is useful for:
 
 1. **Clone the repository**  
 ```bash
-git clone https://github.com/YourUsername/ANPR-System.git
-cd ANPR-System
+git clone https://github.com/YourUsername/ANPR.git
+cd ANPR
